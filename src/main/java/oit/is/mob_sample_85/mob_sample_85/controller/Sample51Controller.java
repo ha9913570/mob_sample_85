@@ -1,4 +1,4 @@
-package oit.is.mob_sample_85.mob_sample_85;
+package oit.is.mob_sample_85.mob_sample_85.controller;
 
 import java.util.ArrayList;
 
