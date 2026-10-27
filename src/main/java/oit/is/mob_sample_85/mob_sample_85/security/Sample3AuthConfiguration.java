@@ -1,4 +1,4 @@
-package oit.is.mob_sample_85.mob_sample_85;
+package oit.is.mob_sample_85.mob_sample_85.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
